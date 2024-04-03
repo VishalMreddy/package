@@ -1,0 +1,22 @@
+{
+  "name": "wds-vishals",
+  "version": "1.0.0",
+  "description": "Is the string wds?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishalMreddy/package.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "web dev simplified",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishalMreddy/package/issues"
+  },
+  "homepage": "https://github.com/VishalMreddy/package#readme"
+}
